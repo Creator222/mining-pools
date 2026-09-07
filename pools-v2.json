@@ -3785,10 +3785,10 @@
   },
   {
     "id": 387,
-    "name": "Legata Nuclear",
-    "addresses": [bc1q9c33rjnas64hpgg5s769c29wnpqt3smwealagy],
+    "name": "Legata",
+    "addresses": ["bc1q9c33rjnas64hpgg5s769c29wnpqt3smwealagy"],
     "tags": [
-      "Legata Nuclear"
+      "Legata"
     ],
     "link": "https://example.com"
   },
